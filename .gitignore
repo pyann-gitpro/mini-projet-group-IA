@@ -1,2 +1,5 @@
 # Environnement virtuel
 .env/
+
+#fichier config gitignore
+.gitignore
