@@ -3,3 +3,6 @@
 
 #fichier config gitignore
 .gitignore
+
+#fichier généré
+__pycache__
